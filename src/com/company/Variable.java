@@ -32,14 +32,5 @@ public class Variable {
         String fullName1 = firstName1 + lastName1;
         System.out.println(fullName1);
 
-        int num4 = 34;
-        int num5 = 100;
-        int total = num4 + num5;
-        System.out.println(total);
-
-        int num6 = 23, num7 = 19, num8 = 59;
-        System.out.println(num6 + num7 + num8);
-        /*System.out.println("Welcoome to Github");*/
-        System.out.println("Welcoome to Github 2");
     }
 }
