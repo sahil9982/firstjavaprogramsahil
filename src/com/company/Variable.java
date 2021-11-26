@@ -17,7 +17,7 @@ public class Variable {
         System.out.println(num1);
 
         int num2 = 100;
-        num2 = 100;
+        num2 = 101;
         System.out.println(num2);
 
 //        final int num3 = 38;
@@ -39,6 +39,6 @@ public class Variable {
 
         int num6 = 23, num7 = 19, num8 = 59;
         System.out.println(num6 + num7 + num8);
-        System.out.println("Welcoome to Github");
+        /*System.out.println("Welcoome to Github");*/
     }
 }
